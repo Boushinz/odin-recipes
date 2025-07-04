@@ -1,1 +1,1 @@
-an oding project written in basic html to create a website for food recipes.
+an odin project written in basic html to create a website for food recipes.
